@@ -11,10 +11,10 @@ I shoot with a Panasonic Lumix LX100. It is a nice little camera, better than a 
 Here are a selection of my photos. I like to take landscapes mostly, but I also have an eye for graffiti and unusual quirky stuff.
 
 ![Canterbury, England](/photos/canterbury-river-thumbnail.jpg)
-<dl><center>A river in Canterbury, England</center></dl>
+<center>A river in Canterbury, England</center>
 
 ![Kildare St., Dublin, Ireland](/photos/kildare-st-thumbnail.jpg)
-<dl><center>Dublin Bus streaks by the Houses of the Oireachtas in Dublin, Ireland</center></dl>
+<center>Dublin Bus streaks by the Houses of the Oireachtas in Dublin, Ireland</center>
 
-![Graffiti on Electrical Boxes, Dublin, Ireland](collage-thumbnail.jpg)
-<dl><center>A collection of graffiti from around Dublin 8</center></dl>
+![Graffiti on Electrical Boxes, Dublin, Ireland](/photos/collage-thumbnail.jpg)
+<center>A collection of graffiti from around Dublin 8</center>
