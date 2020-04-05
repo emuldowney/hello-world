@@ -15,6 +15,8 @@ I have 8+ years experience in the semiconductor design industry, specialising in
 
 In my spare time, I enjoy watching Athletics, and trying my hand at some photography.
 
+Check out my [CV here](/resume)
+
 {% if site.show_talks_section %}
 ## Talks
 
