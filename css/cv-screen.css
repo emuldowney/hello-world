@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	/*list-style: none;*/
 }
 blockquote, q {
 	quotes: none;
@@ -85,9 +85,9 @@ p {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
-  columns: 3;
+  /*columns: 3;
   -webkit-columns: 3;
-  -moz-columns: 3;
+  -moz-columns: 3;*/
 }
 
 
@@ -97,8 +97,8 @@ li {
 
 li ul {
 	position: relative;
-	left: 0;
-/*	margin-top: 0.25em; */
+	left: 0.5em;
+	/*margin-top: 0.1em; */
 }
 
 #resume h1, #resume h2, #resume h3, #resume h4 {
@@ -203,6 +203,6 @@ strong {
 
 @media only screen and (max-width: 480px) {
 	h2 {
-		margin-bottom: 10%;
+		margin-bottom: 20%;
 	}
 }
