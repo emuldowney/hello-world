@@ -34,7 +34,7 @@ enable_anchorjs: false
 ## Optional site sections           ##
 ######################################
 show_talks_section:     false
-show_workshops_section: true
+show_workshops_section: false
 
 ######################################
 ## Disqus post comments             ##
