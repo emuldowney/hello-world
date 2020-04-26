@@ -189,14 +189,29 @@ strong {
 }
 
 
-/*#projects { <!-- my resume structure doesn't require this. I want it all on 1 page --!>s
-	 page-break-before: always;
-}*/
+#projects {
+	/*break-before: always;
+    break-inside: auto;*/
+}
 
 @page { size: auto;  margin: 0mm; } /* hide page title and date */
 
 @media print
 {
+
+    .main {
+        float: none;
+    }
+
+    .resume {
+        float: none;
+    }
+
+    .page-break {
+        float:none !important;
+        display: block;
+        break-before:always;
+    }
 
 	.site-header {
 		display: none !important;
@@ -206,6 +221,10 @@ strong {
 		margin-top: 50px;
 		max-width: 80em;
 	}
+
+    .site {
+        display: block;
+    }
 
 	.print-button, .circle-button, .top-circle, .top-circle img {
 		display: none !important;

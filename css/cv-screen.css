@@ -201,8 +201,15 @@ strong {
 	font-size: 1.2em;
 }
 
+@media{
+    .page-break {
+        display: none;
+    }
+}
+
 @media only screen and (max-width: 480px) {
 	h2 {
 		margin-bottom: 20%;
 	}
+
 }

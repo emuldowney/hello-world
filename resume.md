@@ -55,6 +55,7 @@ __Bachelor of Electronic Engineering, Dublin City University__
 * Experience leading a diverse group to deliver broad ranging projects
 
 
+
 ## Projects
 
 * Designed Characterisation Test Rack for UWB RF IC characterisation 
@@ -85,6 +86,10 @@ __Bachelor of Electronic Engineering, Dublin City University__
   * Implemented VHDL on Xilinx Spartan 6 FPGA (SDP-H1 from Analog Devices)
   * Designed hardware and software interface to FPGA board
   * Completed measurement and evaluation of ASIC design to tight timelines
+
+
+<div id="page-break"><br/><br/></div>
+
 
 * Product Evaluation PCB design
   * Design and schematic entry using Cadence Allegro and Altium
