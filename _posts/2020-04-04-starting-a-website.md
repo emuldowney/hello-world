@@ -4,6 +4,7 @@ title:      Starting my website
 date:       2020-04-04
 summary:    Let's start an online presence
 categories: random
+image: "images/02.jpg"
 ---
 
 My first post online
