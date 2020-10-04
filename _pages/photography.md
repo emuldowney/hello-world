@@ -19,7 +19,7 @@ They say the best camera, is the one you have with you, well my phone camera is 
 
 Here are a selection of my photos. I like to take landscapes mostly, but I also have an eye for bright colours and unusual quirky stuff.
 
-<div class="showcase">
+<div class="showcase" align="center">
   <img style="width:50%" src="/images/portfolio/photography/canterbury-river-thumbnail.jpg" alt="A river in Canterbury, England">
     <p class="meta">A river in Canterbury, England</p>
   <img style="width:50%" src="/images/portfolio/photography/kildare-st-thumbnail.jpg" alt="Dublin Bus streaks by the Houses of the Oireachtas in Dublin, Ireland">
