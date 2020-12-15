@@ -4,6 +4,7 @@ title:  Rural feeling in an urban landscape
 date:   2020-12-15
 categories: photography
 image: "images/phoenix-park/foggy-tree.jpg"
+tags: photography
 ---
 
 # Escape Dublin on your doorstep

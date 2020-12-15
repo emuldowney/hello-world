@@ -4,6 +4,7 @@ title:      I thought I could be a mechanical engineer
 date:       2020-04-13
 summary:    I tried to shape some semi-rigid coax
 categories: electronics
+tags: electronics
 #image: "images/15.jpg"
 ---
 

@@ -4,6 +4,7 @@ title:  Golden Hour at the Grand Canal
 date:   2020-10-10
 categories: photography
 image: "images/grand-canal/2.jpg"
+tags: photography
 ---
 
 # Goldenbridge, Inchicore
