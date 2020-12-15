@@ -5,6 +5,7 @@ title:  "Photography"
 worktype: "Photography"
 date:   2020-04-05
 categories: project
+tags: photography
 ---
 
 I like a little bit of amateur photography.
@@ -18,6 +19,8 @@ They say the best camera, is the one you have with you, well my phone camera is 
 ## Photos
 
 Here are a selection of my photos. I like to take landscapes mostly, but I also have an eye for bright colours and unusual quirky stuff.
+
+See more posts under the tag <a href='/tag/photography/'>_photography_</a>
 
 <div class="showcase" align="center">
   <img style="width:50%" src="/images/portfolio/photography/canterbury-river-thumbnail.jpg" alt="A river in Canterbury, England">

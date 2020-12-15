@@ -4,6 +4,7 @@ title:      Mechanical Keyboard world
 date:       2020-10-01
 summary:    Oh no I didn't!
 categories: electronics
+tags: electronics
 image: "images/16.jpg"
 ---
 

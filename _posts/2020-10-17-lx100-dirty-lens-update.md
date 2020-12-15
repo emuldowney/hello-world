@@ -4,6 +4,7 @@ title:  Cleaning my Panasonic LX-100 Dirty Lens
 date:   2020-10-17
 categories: photography
 image: "images/dirty-lens/a1.jpg"
+tags: photography
 ---
 
 # Attempting to fix my dirty lens
