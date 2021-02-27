@@ -45,7 +45,7 @@ I will replace y with the respective letters from the datasheets below.
 
 So, when I made those cables (This youtube [video](https://www.youtube.com/watch?v=Mp96xNic7ho) is a great tutorial for adding SMA connectors to those cables.), they measured up quite well to the table above. I tried to connect the cables. I quickly realised that the one bend idea was not going to work. The 5 mm cable just wasn't going to fit in its position. It wouldn't even fit in any position combination.
 
-However, it would be remiss of me, if I didn't make them fit. There were a few extra bends required to make them fit, but it all worked out well in the end.
+However, it would be remiss of me if I didn't make them fit. There were a few extra bends required to make them fit, but it all worked out well in the end.
 
 <div align="center">
   <img style="width:50%" src="/images/rigid-coax-post/rigid-coax-finished.jpg" alt="Finished Product. It might have a few extra bends.">

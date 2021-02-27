@@ -8,7 +8,7 @@ image: "images/headshot-landscape.jpg"
 # Eoin Muldowney
 
 <div id="webaddress">
-<i class="ion ion-md-mail"></i><a href="mailto:eskerjenkinstown@hotmail.com">eskerjenkinstown@hotmail.com </a>
+<i class="ion ion-md-mail"></i><a href="mailto:eskerjenkinstown@hotmail.com"> eskerjenkinstown@hotmail.com </a>
 |
 <i class="ion ion-logo-github"></i> <a href="http://github.com/emuldowney">emuldowney</a>
 |
