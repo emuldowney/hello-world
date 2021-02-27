@@ -8,7 +8,7 @@ image: "images/headshot-landscape.jpg"
 # Eoin Muldowney
 
 <div id="webaddress">
-<i class="ion ion-md-mail"></i><a href="mailto:eskerjenkinstown@hotmail.com">eskerjenkinstown@hotmail.com</a>
+<i class="ion ion-md-mail"></i><a href="mailto:eskerjenkinstown@hotmail.com">eskerjenkinstown@hotmail.com </a>
 |
 <i class="ion ion-logo-github"></i> <a href="http://github.com/emuldowney">emuldowney</a>
 |
@@ -47,7 +47,7 @@ __Bachelor of Electronic Engineering, Dublin City University__
 * Experienced user of KiCad, Cadence Allegro, and Altium PCB Design software tools
 * In-depth experience with serial communication protocols, such as, I2C, SPI, RS232, UART
 * Working knowledge of product development lifecycles, Design for Test/Manufacturing
-* Experience working on integrated circuits for Industrial, Communications, Consumer, Automotice and Healthcare markets
+* Experience working on integrated circuits for Industrial, Communications, Consumer, Automotive and Healthcare markets
 * Certified Labview Associate Developer (2013-2015)
 * Driving force behind an internal initiative to improve software quality/consistency within company
 * Experience working in high pressure situations with tight deadlines
@@ -60,12 +60,12 @@ __Bachelor of Electronic Engineering, Dublin City University__
 ## Projects
 
 * Designed Characterisation Test Rack for UWB RF IC characterisation 
-  * Acquired and constructed automated test system for IC characterisation 
+  * Acquired and constructed automated test system for IC characterisation
   * Designed and implemented a python control SW suite for IC characterisation in collaboration with a small team 
-  * Lead a small team in the bench characterisation and evaluation of **DW3210** and **DW3110** products 
+  * Lead a team in the bench characterisation and evaluation of **DW3210** and **DW3110** products 
 
 * Assisted in development of a final test solution and assured correct implementation in East-Asian factory for **DWM1001**
-  * Close collaboration with Chinese contacts
+  * Close collaboration with Chinese factory counterparts
   * On-site bring-up of test solution
 
 * Voltage/Current 12/14/16 bit DAC characterization 
@@ -120,9 +120,9 @@ __Bachelor of Electronic Engineering, Dublin City University__
 * **Python**
 * Design Evaluation
 * Production Test
-* Data Analysis
+* Data Analysis and Presentation
 * PCB Design
-* Git
+* Git/SVN
  
 
 ## Awards and Honours
@@ -143,4 +143,4 @@ __Bachelor of Electronic Engineering, Dublin City University__
 
 <!-- ### Footer
 
-Last updated: September 2020 -->
+Last updated: February 2021 -->
