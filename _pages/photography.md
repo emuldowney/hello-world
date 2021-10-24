@@ -1,6 +1,6 @@
 ---
 layout: page
-uid: photography
+permalink: /photography/
 title:  "Photography"
 worktype: "Photography"
 date:   2020-04-05
