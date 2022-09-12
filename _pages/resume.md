@@ -24,7 +24,7 @@ __Senior Test Engineer UWBU, Qorvo__ Decawave was acquired by Qorvo in Feb 2020.
 `2017-20`
 __Electronic Test Engineer, Decawave__ Lead Test and Measurement Engineer responsible for Design Validation of IC products during development.
 
-`2012-15`
+`2012-17`
 __Design Evaluation Engineer, Analog Devices__ Responsible for planning and implementing characterisation of complex mixed-signal IC products. Characterisation plans, PCB design/schematic/layout, Labview, data gathering, analysis and presentation, and report delivery. Expert in system and IC level analysis and at debugging failures
 
 `2011`
@@ -143,4 +143,4 @@ __Bachelor of Electronic Engineering, Dublin City University__
 
 <!-- ### Footer
 
-Last updated: February 2021 -->
+Last updated: August 2022 -->
